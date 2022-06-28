@@ -1,4 +1,2 @@
-# bionluk-beden
-asd
 
-see the calculator:
+see the calculator: https://abdunzelil.github.io/bionluk-beden/
